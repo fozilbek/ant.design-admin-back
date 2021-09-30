@@ -1,0 +1,6 @@
+# Project exclude paths
+/core/target/
+
+# Logs
+/logs
+*.log

@@ -1,0 +1,2 @@
+INSERT INTO wd_users(full_name,username,password,role)
+  VALUES ('Ergashov Fozil Arshinovich','ergashov.fozilbek@gmail.com','$2a$12$Z33y62Gx.bQr0leggpeS5.7bxdBVELysurpYT2WNikDBMsQFIcKXy','ADMINISTRATOR');--password = dev@25
